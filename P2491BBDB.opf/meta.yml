@@ -1,0 +1,31 @@
+id: P2491BBDB
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG8475
+  instance_id: http://purl.bdrc.io/resource/IE1KG8475
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ལྷ་ལྡན་གཙུག་ལག་ཁང་།
+  alt_title:
+    zh-hans:
+    - 大昭寺简介
+  author: http://purl.bdrc.io/resource/P37
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    db68631e0ab348c6a1b35aa2b06c4076:
+      title: པོད ༡་ལྷ་ལྡན་གཙུག་ལག་ཁང་།
+      volume_number: 1
+      base_file: UT1KG8475_I1KG8513_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA1AE12F40433A5F6
+      image_group: I1KG8513
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG8475
+  - http://purl.bdrc.io/resource/W1KG8475
+  ocr_software: Namsel
+created_at: '2021-12-22T11:00:39.689029'
+last_modified_at: '2021-12-22T11:00:39.689041'
